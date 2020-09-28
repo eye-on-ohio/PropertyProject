@@ -1,4 +1,3 @@
-# PropertyProject
-Our work on the Pulitzer Center project, this will help us coordinate tasks.
+Please read this first: our methodolgy and caveats. 
 
-Note, I deleted the other private one, because Github let us use this one (with more privileges) after I told them we were a nonprofit. 
+https://eyeonohio.com/entity-sales-story-methodology-and-caveats/
